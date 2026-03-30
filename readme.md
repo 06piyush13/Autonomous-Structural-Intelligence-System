@@ -91,7 +91,8 @@ Architecture diagram (add your team’s diagram before submission):
 
 #### 7b. Parsed Output (Wall & Room Detection)
 
-![Parsed Floor Plan](./assets/parsed_output.png)
+<img width="519" height="463" alt="image" src="https://github.com/user-attachments/assets/a98a1330-3636-4000-b0b2-d09cb1ad1ef3" />
+
 
 *Caption: Overlay or API debug view showing merged walls, inferred rooms, and openings (add `parsed_output.png` before submission).*
 
@@ -104,7 +105,8 @@ Architecture diagram (add your team’s diagram before submission):
 
 #### 7d. Material Recommendation Output
 
-![Material Output](./assets/material_output.png)
+<img width="1289" height="546" alt="image" src="https://github.com/user-attachments/assets/c5118f90-78ec-4df4-a28d-f23c54d80c28" />
+
 
 *Caption: Ranked options per element from `stage_4_material_tradeoff` (add `material_output.png`).*
 
