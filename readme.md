@@ -84,7 +84,8 @@ Architecture diagram (add your team’s diagram before submission):
 
 #### 7a. Input Floor Plan
 
-![Input Floor Plan](./assets/floorplan_B.png)
+<img width="608" height="521" alt="image" src="https://github.com/user-attachments/assets/44441488-a3d5-408a-886e-fc80ae353f7b" />
+
 
 *Caption: Plan B — primary evaluation-style sample (`example2.png` via `floorplan_B.png` symlink).*
 
@@ -96,7 +97,8 @@ Architecture diagram (add your team’s diagram before submission):
 
 #### 7c. 3D Model — Browser View
 
-![3D Model](./assets/3d_model_screenshot.png)
+<img width="539" height="526" alt="image" src="https://github.com/user-attachments/assets/b5678200-9eeb-490c-a6b7-db6da8dcd5d9" />
+
 
 *Caption: Three.js render from `templates/index.html` or `test_client.html` after upload (add `3d_model_screenshot.png`).*
 
